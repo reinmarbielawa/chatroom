@@ -2,6 +2,9 @@
 
 Simple chatroom application in Java, using threads and sockets. Client-server architecture.
 
+## Status
+In active development.
+
 ## Design
 Client should be very simple, mainly communicating with server.
 Server should handle broadcast messages to all users and most of functionality.
